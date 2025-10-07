@@ -1,5 +1,8 @@
 # متطلبات الموقع (Flask)
 Flask==3.0.3
+Flask-CORS==5.0.0
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.36
 gunicorn==23.0.0
 Werkzeug==3.0.4
 Jinja2==3.1.4
