@@ -4,7 +4,7 @@ BOT_TOKEN = '7517890109:AAGqykdBdcB7xh2Z_kvkHKWIvwixiNvmAlw'
 ADMIN_USER_ID = 5561466213
 
 # API Settings
-API_BASE_URL = 'https://80-iayzosfpiazlzday7ujjn-d2b18cd3.manusvm.computer' # يمكن تغييرها حسب عنوان الخادم
+API_BASE_URL = 'https://zmhqivc58p1j.manus.space' # رابط الموقع المنشور
 API_ENDPOINT = '/api/add_leave.php'
 API_FULL_URL = API_BASE_URL + API_ENDPOINT
 
